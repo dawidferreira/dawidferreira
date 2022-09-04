@@ -18,3 +18,5 @@
 </div><br/>
 
 Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação &tecnologia.
+<br/>
+[Email](dawidalmeida@hotmail.com)
