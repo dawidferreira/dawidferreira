@@ -17,6 +17,7 @@
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação &tecnologia.
-<br/>
-[EMAIL](mailto:dawidalmeida@hotmail.com)
+Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação &tecnologia.<br/>
+
+
+[mailton](mailto:dawidalmeida@hotmail.com)<br/>
