@@ -15,7 +15,7 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-#ffffff?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-238fff?style=for-the-badge&logo=python&logoColor=yellow" />
 </div><br/>
 
 Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação &tecnologia.<br/>
