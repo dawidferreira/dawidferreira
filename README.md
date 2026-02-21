@@ -18,7 +18,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-238fff?style=for-the-badge&logo=python&logoColor=yellow" />
 </div><br/>
 
-Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação &tecnologia.<br/>
+Intusiasta por tecnologia, educação e por mudar a vida das pessoas através da inovação & tecnologia.<br/>
 
 
 [Email](mailto:dawidalmeida@hotmail.com)<br/>
